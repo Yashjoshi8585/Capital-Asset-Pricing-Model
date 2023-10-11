@@ -11,3 +11,4 @@
 5. Utilized Python libraries such as Pandas for data manipulation, statistical analysis, and data visualization, combining data analytics expertise with financial knowledge to offer an intuitive and informative data-driven web application.
 
 Here's, image of this web application: 
+![capm](https://github.com/Yashjoshi8585/Capital-Asset-Pricing-Model/assets/77010229/4c7759f5-5a54-4299-aa3e-eac0494fe5a9)
